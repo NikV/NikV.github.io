@@ -1,0 +1,3 @@
+= This is actually pretty fun
+
+Cool blogging system. Setup with Github
