@@ -1,1 +1,3 @@
 = My first blog post
+
+I'm just trying out something new. It's always interesting to try new ways to build websites. I'm curently using HubPress for this website. Like I said, it's pretty nice and simple with a few themes to choose from. Will I blog here? not sure, but I will be tinkering with this platform a bit.
